@@ -1,6 +1,7 @@
-# Video.js-Video-player
-video js html video player
+# Video.js-Video-player HTML / JS
+### video js html video player
 
-## npm install --save-dev video.js
+#### npm install --save-dev video.js
 
 
+![](https://github.com/Ranushklakmal/Video.js-Video-player/blob/master/1PNG.PNG)
